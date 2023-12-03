@@ -1,3 +1,11 @@
+PROJECT IDEA AND PROBLEM STATEMENT: Write a ruby client.
+A client that can execute queries on remote database engines from your local computer across internet. It should take in a remote host, username and password, run the query and return the results.
+This client can. be used to run query against multiple databases / datasources.
+
+Follow up: Write the same client in GO as well and compare the performance capabilities. (To Do)
+=======================================================================================================================
+Implemented Ruby Client Overview:
+
 # remote_database_executable_client
 
 NOTE: THIS CLIENT IS SPECIFICALLY DEVELOPED FOR THE POSTGRESQL DATABASE. AND THIS WILL NOT RUN AGAINST THE DATABASES OF ANY OTHER VENDOR OTHER THAN PSQL.
